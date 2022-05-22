@@ -1,11 +1,26 @@
 // Custom.scss
 // Opção A: Importa todo o Bootstrap
 
-$primary: red;
+$first-color: #3E5A86;
+$second-color: #A1CCE9;
+$third-color: #8D9FB5;
+$fours-color: #E3EAF4;
+$black-color: #1B1918;
+$myborder: #fff $second-color $second-color $second-color;
 
-$mycolor: blue;
+
+$primary: $first-color;
+$secondary: $second-color;
+$nav-tabs-link-active-bg: $second-color;
+//$nav-tabs-link-active-border-color: $myborder;
+//$nav-tabs-border-width: .5rem; 
 
 
-@import "../bootstrap/scss/bootstrap";
+
+$enable-gradients:true;
+
+
+
+@import "../lib/bootstrap-4.1.3/scss/bootstrap";
 
 
