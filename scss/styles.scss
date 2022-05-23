@@ -6,15 +6,14 @@ $second-color: #A1CCE9;
 $third-color: #8D9FB5;
 $fours-color: #E3EAF4;
 $black-color: #1B1918;
-$myborder: #fff $second-color $second-color $second-color;
+//$myborder: #fff $second-color $second-color $second-color;
 
 
-$primary: $first-color;
-$secondary: $second-color;
-$nav-tabs-link-active-bg: $second-color;
+$primary: $fours-color;
+$secondary: $third-color;
+$nav-tabs-link-active-bg: $fours-color;
 //$nav-tabs-link-active-border-color: $myborder;
 //$nav-tabs-border-width: .5rem; 
-
 
 
 $enable-gradients:true;
