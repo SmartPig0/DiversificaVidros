@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Oswald:wght@600&display=swap');
 #myTab .active{
-    border-bottom: solid 5px #fff !important;
+    border-bottom: solid 3px #fff !important;
     color: #3E5A86 !important;
     height: 100%;
 }
