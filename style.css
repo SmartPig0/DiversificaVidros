@@ -11,4 +11,7 @@ backdrop-filter: blur(50px);
 .absoluta{
     top:2400px;    
 }
-
+.img-scale:hover{
+    transform: scale(1.2);
+    transition: all ease-in-out .3s;
+}
