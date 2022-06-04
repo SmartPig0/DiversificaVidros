@@ -15,4 +15,6 @@ backdrop-filter: blur(50px);
     transform: scale(1.2);
     transition: all ease-in-out .3s;
 }
-
+body{
+    overflow-x:hidden;
+}
