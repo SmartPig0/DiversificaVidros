@@ -29,4 +29,7 @@ body{
     .logo-diver{
         max-width: 100%;
     }
+    body{
+        overflow-x:hidden;
+    }
 }
