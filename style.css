@@ -21,3 +21,12 @@ body{
 .bgrd-css{
  color:#232C55
 }
+@media (max-width:600px){
+    .absoluta{
+        top:5750px;
+        max-width: 100%;
+    }
+    .logo-diver{
+        max-width: 100%;
+    }
+}
